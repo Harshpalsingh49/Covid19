@@ -1,4 +1,4 @@
-## Readme
+## COVID-19 ANALYSIS USING SQL 
 
 - This repository contains SQL queries that provide insights into the impact of the COVID-19 pandemic on a global scale.
 - These queries allow you to analyze data related to:
